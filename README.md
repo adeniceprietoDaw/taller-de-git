@@ -1,1 +1,5 @@
-ESTO ES UN TEXTO DE PRUEBA
+# Curso de GIT
+
+Este proyecto contiene el curso de introducción a GIT
+
+Desarrollado por Denice P.
